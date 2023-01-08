@@ -1,0 +1,30 @@
+body{
+	background-color: rgb(79, 127, 199);
+	font-family: 'Arimo', sans-serif;
+}
+.flex-class{
+	display: flex;
+	margin-top: 5%;
+	color: black;
+	margin-left: 10%;
+	font-weight: bolder;	
+	display: inline-block;
+
+}
+p{
+	margin-left: 50%;
+	display: inline-block;
+	margin-right: 10%;
+	margin-top: -50%;
+}
+img{
+	height: 400px;
+	width: 1200px;
+	object-fit: cover;
+	margin-left: 11%;
+	margin-top: 6%;
+}
+.A{
+	font-size: 4vw;
+	margin-right: 50%;
+}

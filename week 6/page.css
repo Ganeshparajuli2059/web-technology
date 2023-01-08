@@ -1,0 +1,15 @@
+body{
+	background-color:skyblue ;
+}
+.A img{
+	width: fit-content;
+	padding: 3px;
+    border-radius:20px ;
+
+}
+.B{
+	margin-top: -50%;
+	margin-left: 65%;
+	font-family: sans-serif;
+	
+}
